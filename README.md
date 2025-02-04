@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://app.netlify.com/sites/vermillion-macaron-04a34f/deploys/67a0fda140f90f1e0a91494a)
+## <b> [Click here to Play the GAME!!](https://67a0fda140f90f1e0a91494a--vermillion-macaron-04a34f.netlify.app/)
 
 This project is made using HTML,CSS &amp; JavaScript.
 
